@@ -2,7 +2,7 @@
 
 ## Purpose
 
-The PCA Autocross Minimum Standards are a common set of safety-based rules upon which to build and 
+The PCA (Porsche Club of America) Autocross Minimum Standards are a common set of safety-based rules upon which to build and 
 improve regional autocross programs. These standards are intended to minimize risk to the Club, Regions, 
 and participants (drivers and non-drivers) and do not include many of the strictly administrative items 
 necessary to put on an autocross.
@@ -62,7 +62,7 @@ event and venue shall be kept on site during the event. Any entities required to
 certificate by the site owner must be included. 
 
 **Waiver:** Everyone at the event location must sign the appropriate PCA insurance waiver as designated in 
-the then current Region Procedures Manual and follow other procedures as designated in the Insurance 
+the then current Region Procedures Manual (RPM) and follow other procedures as designated in the Insurance 
 Section of the RPM 
 
 **Junior Participant Program (JPP)**  
@@ -77,8 +77,8 @@ requirements that are more stringent than the PCA Minimum Standards; e.g., on-si
 limits, etc. 
 
 **Drivers/Safety Meeting:** All events must have a drivers meeting to review event procedures, safety, site 
-risks, restricted areas and policies before the start of competition. ALL PARTICIPANTS MUST 
-ATTEND. Site boundary safety shall be discussed and site boundary protocol shall be established to 
+risks, restricted areas and policies before the start of competition. *All participants must 
+attend.* Site boundary safety shall be discussed and site boundary protocol shall be established to 
 ensure site boundaries are clearly defined and maintained. 
 
 **Incident Report:** For any incident or other contact resulting in physical damage to an automobile and/or 
