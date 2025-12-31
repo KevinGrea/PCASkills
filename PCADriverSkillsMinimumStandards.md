@@ -1,6 +1,6 @@
-# PCA AUTOCROSS MINIMUM STANDARDS
+# PCA Autocross Minimum Standards
 
-## PURPOSE 
+## Purpose
 
 The PCA Autocross Minimum Standards are a common set of safety-based rules upon which to build and 
 improve regional autocross programs. These standards are intended to minimize risk to the Club, Regions, 
@@ -10,12 +10,12 @@ necessary to put on an autocross.
 designed to be basic in nature so any Region or Zone can have more stringent rules, but none more 
 lenient.**
 
-## COMPLIANCE
+## Compliance
 
 Any Region/Zone that plans to run an autocross event must meet all the minimum standards. Failure to 
 comply could prevent issuance of PCA insurance for future autocross events. 
 
-## AUTOCROSS 
+## Autocross
 
 **Definition:** An autocross is an all forward gear competitive driving event in which one vehicle at a time is 
 timed for one or more laps on a clearly defined closed course on a hard surface with a defined start and 
@@ -37,7 +37,7 @@ PCA liability insurance, and submit the Observer, Post Event, and Incident Repor
 
 Joint events with non-PCA organizations are prohibited. 
 
-## ROLES/RESPONSIBILITIES 
+## Roles/Responsibilities 
 
 **Event Chair** – Manages the event from beginning to end. Submits the Post-Event Report within five (5) 
 days to PCA. 
@@ -55,7 +55,7 @@ event and submits the PCA Observer’s Report for Autocross within ten (10) days
 **Driving Instructors** – Designated by the Event Chair, prior to the beginning of timed runs. Qualifications 
 are at the Region’s discretion. 
 
-## ADMINISTRATION 
+## Administration
 
 **Insurance:** The liability insurance certificate issued by PCA showing the insurance coverage, date of the 
 event and venue shall be kept on site during the event. Any entities required to be named on the insurance 
@@ -103,7 +103,7 @@ Event Management).
 For further information on insurance, the Junior Participation Program, Reports, etc., please refer to the 
 Region Procedure Manual. 
 
-## SITE
+## Site
 
 **Facility:** An autocross event must be held on a paved surface (i.e., asphalt, concrete, etc.). Use of a non
 paved surface, except for parking, paddock, etc. requires approval from the National Safety Chair. 
@@ -135,7 +135,7 @@ while refueling. A fully-charged fire extinguisher nearby is required.
 
 **Drones:** The use of drones is not permitted within the event boundary as per PCA National Policy. 
 
-## ENTRANTS
+## Entrants
 
 **Entrants:** A registered entrant is defined as a person who will be participating in substantially all 
 appropriate aspects of the event (driver’s meeting, corner working, etc.). This does not mean, however, a 
@@ -167,12 +167,12 @@ autocross instructor. The driver must have sole control of the car – no blindf
 control input by a passenger. Drivers and passengers must be belted in the car with helmets on and chin 
 straps fastened while on course. 
 
-**NO ALCOHOL OR CONTROLLED SUBSTANCES CAN BE CONSUMED BY ANY PERSON 
-AT THE SITE OF THE EVENT DURING THE HOURS OF EVENT OPERATION.** This is not 
+**No alcohol or controlled substances can be consumed by any person 
+at the site of the event during the hours of event operation.** This is not 
 intended to prevent participants from taking medication prescribed by a physician as long as it does not 
 have an unreasonable effect on a person’s ability to control a vehicle at speed. 
 
-## VEHICLE
+## Vehicle
 
 **Eligible Vehicles:** All Porsche vehicles and other manufacturer automobiles are eligible. Karts and 
 motorcycles are not allowed to participate; karts must not be operated within the boundary of the event as 
@@ -208,7 +208,7 @@ manufacturer’s instructions.  All belts must be in good condition and not over
 protection for the regulator. Oxygen bottles required for medical reasons by an entrant while they are 
 driving are allowed but must be properly attached to the vehicle. 
 
-## COURSE DESIGN AND EVENT LAYOUT
+## Course Design and Event Layout
 
 **Safety:** Safety of everyone is the most important consideration in the design of the autocross course. 
 During the design process a “what if” exercise is required to assess and address potential accident 
@@ -241,7 +241,7 @@ obstructions.
 cars are on the course simultaneously to ensure cars cannot cross paths, even in the event both drivers 
 leave the intended driving path. 
 
-## COURSE WORKERS
+## Course Workers
 
 **Staffing:** The autocross course must have a starter (stages cars, conducts final safety check - helmets, 
 belts, closed doors and hoods, checks course is ready, launches car) and sufficient flag stations staffed by 
