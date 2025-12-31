@@ -34,7 +34,7 @@ followed.
 **Test and Tune Days:** Holding “Test and Tune” (open practice) events are permissible as long as all 
 minimum standards described herein are followed. 
 
-**Joint Events:** Multiple PCA Regions can host an autocross; however, one Region must be designated 
+**Joint Events: Multiple PCA Regions can host an autocross; however,** one Region must be designated 
 the host and is to take the lead role. It is the hosting Region’s responsibility to oversee the event, obtain 
 PCA liability insurance, and submit the Observer, Post Event, and Incident Reports (if necessary). 
 
@@ -149,7 +149,8 @@ scheduled for such entrant. Registering people for the sole purpose of fun rides
 the requirements of an entrant (waiver, registration, fee must be paid). 
 
 **Driver’s License:** All entrants must have a valid driver's license, verified either during on-line 
-registration or when the driver checks in. 
+registration or when the driver checks in.
+
 **Entrant Age:** The minimum age for any driving entrant is 18 years, except for JPP entrants. 
 
 **Clothing (Helmet, Shoes, etc.):** All vehicle occupants while on course must wear an approved helmet. 
@@ -237,7 +238,7 @@ to weather and wear.
 **Speeds:** The course must be designed such that maximum speeds shall be in the mid-60 mph /100 kph for 
 stock, later-model normal production cars with around 300 hp on street tires (993, 996, 997, 981, etc. not 
 GT3, Turbo, etc.). The fastest portions of the course shall be the most remote from participants and 
-obstructions. 
+obstructions.
 
 **Multiple Cars:** Extreme care and special design consideration shall be taken with courses where multiple 
 cars are on the course simultaneously to ensure cars cannot cross paths, even in the event both drivers 
@@ -252,7 +253,8 @@ Station Location: Flag stations must be placed at a safe distance from any vehic
 Special care shall be taken to ensure potential off course driving does not endanger course workers. 
 
 **Training:** A Worker’s Meeting (may be part of the Driver’s Meeting) must be conducted to ensure all 
-workers are safe and that they understand their roles and responsibilities. 
+workers are safe and that they understand their roles and responsibilities.
+
 A discussion regarding the proper use of safety equipment (fire extinguishers, flags and radios), worker 
 safety, course worker expectations, and all that workers are expected to do in the event of an emergency 
 shall be covered. Course workers shall be given clear instructions to ensure their safety (e.g., safety first - 
