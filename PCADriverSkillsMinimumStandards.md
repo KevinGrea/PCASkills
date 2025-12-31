@@ -1,6 +1,3 @@
-Version: 1 - 04.30.2020  
-Approval Date: 5/17/2020 
-
 # PCA AUTOCROSS MINIMUM STANDARDS
 
 ## PURPOSE 
