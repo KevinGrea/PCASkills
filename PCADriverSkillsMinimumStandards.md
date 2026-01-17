@@ -181,10 +181,10 @@ registration or when the driver checks in.
 
 **Helmets** Helmets are not required, however the Event Chair may decide to require helmets for the event. This requirement is
 decided before the event day and cannot be changed during the event. If an event 
-requires helmets, the standards regarding helmets defined in either Autocross or Driver Education minimum standards, will apply. 
+requires helmets, the standards regarding helmets defined in either Autocross or Driver Education minimum standards will apply. 
 Only one of these minimums for helmets will be decided on for a given event (no mixing autocross and Driver Education standards).
 Autocross helmet standards are preferred as speeds and setup are most similar, 
-but if the event is running con-currently with a Driver Education event at the same location, selecting the Driver
+but if the event is running concurrently with a Driver Education event at the same location, selecting the Driver
 Education helmet standard will make enforcement easier.
 
 **Clothing (Shoes, etc.):** 
@@ -304,13 +304,9 @@ get off the course well before a car arrives, even if the course is not reset).
 
 **Equipment:** Each exercise course must have an unfurled flag which can be used to stop cars on course when 
 required, and effective communication (radio, voice, hand signals, flags, air horn). Each exercise
-course must each have one up-to-date and fully-charged fire extinguisher. 
+course must have one up-to-date and fully-charged fire extinguisher. 
 
-**Safety:** While cars are running an exercise course at speed, all course workers must be standing.
-Course starter with the flag keeps an eye on the safety situation 
+**Worker Attention:** While cars are running an exercise course at speed, all course workers must be standing.
+The course starter, with the flag, keeps an eye on the safety situation 
 and lets other workers reset cones. All course workers must not be using any other devices (cameras, 
 video cameras, cell phones, etc.) that can distract their attention away from moving vehicles.
-
-
-TODO:
-define exercise course
