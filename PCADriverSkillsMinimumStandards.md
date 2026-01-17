@@ -137,8 +137,6 @@ not wander through or enter the site at non-designated entry points.
 **Off Limits Areas:** The site owner, Event Chair or Safety Chair may designate areas of the event site as 
 off limits and care must be taken to follow these requirements. 
 
-TODO: Make restricted areas work for multiple exercise site.
-
 **Restricted Areas:** The exercise courses and the areas near the them are considered restricted 
 areas and access to these areas is restricted to adults only (18 years of age or older). The only exception is 
 for 16 & 17-year-old Junior Participation Program (JPP) entrants when they are driving the Exercises. 
@@ -163,7 +161,7 @@ while refueling. A fully-charged fire extinguisher nearby is required.
 ## Entrants
 
 TODO: Need to allow non-paying volunteers. They drive open course and also take educational rides from
-instructors, so are entrants, but "pay" with time and labor. Ok to delete "fee must be paid".
+instructors, so are entrants, but "pay" with time and labor. Ok to delete "fee must be paid"?
 
 **Entrants:** A registered entrant is defined as a person who will be participating in substantially all 
 appropriate aspects of the event (driver’s meeting, corner working, etc.). This does not mean, however, a 
@@ -245,9 +243,9 @@ discretion of the Event Chair and the Safety Chair.
 **Seat Belts:** All vehicles must have either factory seat belts and/or multi-point harnesses and be in use by 
 all occupants. If the participant chooses to install a five- or six-point harness, several changes to the 
 automobile may need to be made to create a safe occupant restraint system. Must be installed per the 
-manufacturer’s instructions.  All belts must be in good condition and not overly worn, frayed, or stiff. 
+manufacturer’s instructions. All belts must be in good condition and not overly worn, frayed, or stiff. 
 
-TODO: multi-point with no HANS? Should this be explicitly disallowed? Even at "low speed" a harness puts neck at risk.
+TODO: multi-point belts with no HANS? Should this be explicitly disallowed? Even at "low speed" a harness puts neck at risk.
 
 **High Pressure Gas Cylinders:** High pressure gas and air bottles (over 400 psi tanks) must have 
 protection for the regulator. Oxygen bottles required for medical reasons by an entrant while they are 
