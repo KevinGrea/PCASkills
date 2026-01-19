@@ -218,7 +218,7 @@ checked, the 12v battery is secure (if accessible), and the fuel cap is present 
 necessary by safety inspection. A vehicle that has passed vehicle safety inspection must be identified with 
 a label or some other marking, so it is easily identifiable as having passed the safety inspection. 
 
-**Re-inspection:** If a car leaves the course surface or hits an obstruction, it must be re-inspected. 
+**Re-inspection:** If a car leaves the course surface or hits an obstruction, it must be re-inspected per "Vehicle Safety Inspection". 
 
 **Testing:** Cars are not allowed to be running while any part of the car is off the ground (on a jack or jack 
 stands). 
