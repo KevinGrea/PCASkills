@@ -29,7 +29,7 @@ exercise courses for one or more laps on a clearly defined closed course on a ha
 The Exercises are run in lower gears (typically 2nd) with an emphasis on handling and agility or other driving skills, 
 rather than speed and power. There is no wheel-to-wheel racing, time trials or a gymkhana. More 
 than one vehicle can be on an exercise course at the same time as long as vehicles do not run in proximity to each 
-other and workers are not put at risk. There is no official timing or comparison of times. 
+other and workers are not put at risk. There is no official timing or comparison of times. **This not a comitative event.**
 
 **Autocross as an exercise:** An autocross course as an exercise, often as a "put it all together" exercise, is permissible as long as all 
 minimum standards described herein are followed.
@@ -43,7 +43,7 @@ or proceed to an different exercise course grid. exercise courses define the hot
 exercise course to be setup and torn down throughout an event, although they also
 may remain in place for the whole event.
 
-**Joint Events: Multiple PCA Regions can host a Driver Skills; however,** one Region must be designated 
+**Joint Events: Multiple PCA Regions can host a Car Control Skills event; however,** one Region must be designated 
 the host and is to take the lead role. It is the hosting Region’s responsibility to oversee the event, obtain 
 PCA liability insurance, and submit the Observer, Post Event, and Incident Reports (if necessary).
 
