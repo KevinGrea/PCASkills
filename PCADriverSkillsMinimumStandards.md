@@ -228,11 +228,13 @@ do not have open-car factory rollover protection. For non-Porsche vehicles, acce
 discretion of the Event Chair and the Safety Chair.  
 
 **Seat Belts:** All vehicles must have either factory seat belts and/or multi-point harnesses and be in use by 
-all occupants. If the participant chooses to install a five- or six-point harness, several changes to the 
-automobile may need to be made to create a safe occupant restraint system. Must be installed per the 
-manufacturer’s instructions. All belts must be in good condition and not overly worn, frayed, or stiff. 
+all occupants. All belts must be in good condition and not overly worn, frayed, or stiff. 
 
-TODO: multi-point belts with no HANS? Should this be explicitly disallowed? Even at "low speed" a harness puts neck at risk.
+A head and neck restraint device is required for all cars using harness systems. Cars must not be allowed on course if the occupants do not have a head and neck restraint device while using harnesses.
+
+The Entrant should be aware that the addition of a seat and harness system results in the 
+occupant being fastened upright in the vehicle and several changes to the 
+automobile may need to be made to create a safe occupant restraint system. Therefore, in order to have a COMPLETE SYSTEM, a properly padded roll bar or roll cage is recommended. All elements must be installed per the manufacturer’s instructions.
 
 **Hybrid / Electric Vehicles** Regions shall verify if the Event Facility permits Hybrid / Electric Vehicles on track.
 Regions may decide if they shall allow all car marques, just Porsche-brand or no Hybrid / Electric Vehicles to participate
