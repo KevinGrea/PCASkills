@@ -282,7 +282,7 @@ leave the intended driving path.
 **Staffing:** The exercise courses must have a starter (stages cars, conducts final safety check - helmets, 
 belts, closed doors and hoods, checks course is ready, launches car). Optionally there may be course reset stations staffed by 
 one or more workers to cover the course. 
-Station Location: Course rest stations must be placed at a safe distance from any vehicle’s path on course. 
+Station Location: Course reset stations must be placed at a safe distance from any vehicle’s path on course. 
 Special care shall be taken to ensure potential off course driving does not endanger course workers. 
 
 **Training:** A Worker’s Meeting (may be part of the Driver’s Meeting) must be conducted to ensure all 
