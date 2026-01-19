@@ -238,6 +238,10 @@ manufacturer’s instructions. All belts must be in good condition and not overl
 
 TODO: multi-point belts with no HANS? Should this be explicitly disallowed? Even at "low speed" a harness puts neck at risk.
 
+**Hybrid / Electric Vehicles** Regions shall verify if the Event Facility permits Hybrid / Electric Vehicles on track.
+Regions may decide if they shall allow all car marques, just Porsche-brand or no Hybrid / Electric Vehicles to participate
+in Event. 
+
 **High Pressure Gas Cylinders:** High pressure gas and air bottles (over 400 psi tanks) must have 
 protection for the regulator. Oxygen bottles required for medical reasons by an entrant while they are 
 driving are allowed but must be properly attached to the vehicle. 
