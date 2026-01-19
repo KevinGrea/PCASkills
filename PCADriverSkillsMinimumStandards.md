@@ -160,15 +160,10 @@ while refueling. A fully-charged fire extinguisher nearby is required.
 
 ## Entrants
 
-TODO: Need to allow non-paying volunteers. They drive open course and also take educational rides from
-instructors, so are entrants, but "pay" with time and labor. Ok to delete "fee must be paid"?
-
 **Entrants:** A registered entrant is defined as a person who will be participating in substantially all 
 appropriate aspects of the event (driver’s meeting, corner working, etc.). This does not mean, however, a 
 registered entrant must attend the event full time, or participate in exercises that are not 
-scheduled for such entrant. Registering people for the sole purpose of fun rides is not permitted, though a 
-“Taste of Autocross” program is allowed if the participant rides with a designated instructor and meets all 
-the requirements of an entrant (waiver, registration, fee must be paid). 
+scheduled for such entrant. Registering people for the sole purpose of fun rides is not permitted. 
 
 TODO: allow learner's permits? Minors exclusion again.
 
@@ -177,13 +172,9 @@ registration or when the driver checks in.
 
 **Entrant Age:** The minimum age for any driving entrant is 18 years, except for JPP entrants. 
 
-**Helmets** Helmets are not required, however the Event Chair may decide to require helmets for the event. This requirement is
+**Helmets** Helmets are not required. A region may decide to require helmets for the event. This requirement is
 decided before the event day and cannot be changed during the event. If an event 
-requires helmets, the standards regarding helmets defined in either Autocross or Driver Education minimum standards will apply. 
-Only one of these minimums for helmets will be decided on for a given event (no mixing autocross and Driver Education standards).
-Autocross helmet standards are preferred as speeds and setup are most similar, 
-but if the event is running concurrently with a Driver Education event at the same location, selecting the Driver
-Education helmet standard will make enforcement easier.
+requires helmets, the standards regarding helmets defined in the Autocross Minimum standards apply. 
 
 **Clothing (Shoes, etc.):** 
 Footwear must be non-slip and NOT be open-toe or have heavy-duty soles such as 
