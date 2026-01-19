@@ -210,17 +210,13 @@ per PCA National Policy.
 to operate in Exercises at the event and is in sound mechanical condition. Safety inspection by PCA Region 
 volunteers does not relieve a entrant of their responsibility for the safety of the vehicle they entered.  
 All vehicles must be inspected by designated safety inspectors on the day of the event before being 
-allowed on course. “Annual” safety inspection is not a substitute. This inspection shall confirm: helmet (if required) 
+allowed on course. This inspection shall confirm: helmet (if required) 
 meets the rating requirements, restraint system is operational, all loose objects are removed, cameras are 
 properly attached, the brake pedal is firm, the throttle operates properly, seats are properly attached and 
 functional, wheels are properly secured, there are no significant fluid leaks, tire and wheel integrity is 
-checked, the battery is secure, and the fuel cap is present and secure, and any other items deemed 
+checked, the 12v battery is secure (if accessible), and the fuel cap is present and secure, and any other items deemed 
 necessary by safety inspection. A vehicle that has passed vehicle safety inspection must be identified with 
 a label or some other marking, so it is easily identifiable as having passed the safety inspection. 
-
-TODO: should safely list above (and below) be a copy here or just refer to the autocross minimum standards, 
-saying they must be met (similar to how helmet standards are deferred to AX and DE). Copy is clumsy for keeping 
-consistent, but referral might be ambiguous about which paragraphs apply.
 
 **Re-inspection:** If a car leaves the course surface or hits an obstruction, it must be re-inspected. 
 
