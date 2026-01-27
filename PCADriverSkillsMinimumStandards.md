@@ -23,7 +23,7 @@ exercise courses for one or more laps on a clearly defined closed course on a ha
 The Exercises are run in lower gears (typically 2nd) with an emphasis on handling and agility or other driving skills, 
 rather than speed and power. There is no wheel-to-wheel racing, time trials or a gymkhana. More 
 than one vehicle can be on an exercise course at the same time as long as vehicles do not run in proximity to each 
-other and workers are not put at risk. There is no official timing or comparison of times. **This not a comitative event.**
+other and workers are not put at risk. There is no official timing or comparison of times. **This not a competitive event.**
 
 **Autocross as an exercise:** An autocross course as an exercise, often as a "put it all together" exercise, is permissible as long as all 
 minimum standards described herein are followed.
