@@ -44,7 +44,7 @@ By enabling more such events, Car Control Skills events can be feeder programs, 
     This will be broken down by topic and focused on visual communication (not text)
 - Bast practices and tips for event hosts
     - Post event survey
-        - MS Forms template
+        - [Microsoft Forms Template](https://forms.office.com/Pages/ShareFormPage.aspx?id=C76A5MFeL0iAy06p8zpoi5ApOm40M15BrQ4tIFNyZIlUMk5LTllHMzUyVEVZOVBPNkEzRFA3MkE0VC4u&sharetoken=YNf10EsuohRFTQgbwU48)
     - [Shared cars line up](https://www.youtube.com/watch?v=LXm9J72rlWs)
     - Online classroom
     - Allowing Solo runs
