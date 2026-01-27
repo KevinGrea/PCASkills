@@ -65,6 +65,7 @@ are at the Region’s discretion.
 course runs, along with mentoring Instructors.
 Qualifications are at the Region’s discretion.
 
+**Entrants:** A person who will be participating in aspects of the event. See Entrants section below for detail.
 
 ## Administration
 
