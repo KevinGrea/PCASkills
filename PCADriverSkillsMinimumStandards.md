@@ -1,6 +1,6 @@
 # PCA Car Control Skills Minimum Standards
 
-## Purpose
+##1. Purpose
 
 The PCA (Porsche Club of America) Car Control Skills Minimum Standards are a common set of safety-based rules
 upon which to build and improve regional Car Control Skills programs. These are also known as Car Control Clinics
@@ -11,69 +11,69 @@ necessary to put on a Car Control Skills event.
 designed to be basic in nature so any Region or Zone can have more stringent rules, but none more 
 lenient.**
 
-## Compliance
+##2. Compliance
 
 Any Region/Zone that plans to run a Car Control Skills event must meet all the minimum standards. Failure to 
 comply could prevent issuance of PCA insurance for future Car Control Skills events. 
 
-## Car Control Skills
+##3. Car Control Skills
 
-**Definition:** A Car Control Skills event is an all forward gear non-competitive driving school in which one vehicle at a time drives 
+**3.2. Definition:** A Car Control Skills event is an all forward gear non-competitive driving school in which one vehicle at a time drives 
 exercise courses for one or more laps on a clearly defined closed course on a hard surface.
 The Exercises are run in lower gears (typically 2nd) with an emphasis on handling and agility or other driving skills, 
 rather than speed and power. There is no wheel-to-wheel racing, time trials or a gymkhana. More 
 than one vehicle can be on an exercise course at the same time as long as vehicles do not run in proximity to each 
 other and workers are not put at risk. There is no official timing or comparison of times. **This not a competitive event.**
 
-**Autocross as an exercise:** An autocross course as an exercise, often as a "put it all together" exercise, is permissible as long as all 
+**3.3. Autocross as an exercise:** An autocross course as an exercise, often as a "put it all together" exercise, is permissible as long as all 
 minimum standards described herein are followed.
 
-**Example exercises:** Exercises may include slalom, skid pads or rings, emergency braking, balancing braking and turning, 
+**3.4. Example exercises:** Exercises may include slalom, skid pads or rings, emergency braking, balancing braking and turning, 
 emergency avoidance of objects combined with braking, figure 8, oval, or an autocross course. This list is not exhaustive.
 
-**Exercise course:** An exercise course is a single exercise, or series of Exercises to be driven sequentially, with a defined start and finish.
+**3.5. Exercise course:** An exercise course is a single exercise, or series of Exercises to be driven sequentially, with a defined start and finish.
 Depending on design of the event, on completion of an exercise course cars may return to the grid for that exercise course,
 or proceed to an different exercise course grid. exercise courses define the hot areas of an event. It is common for
 exercise course to be setup and torn down throughout an event, although they also
 may remain in place for the whole event.
 
-**Joint Events: Multiple PCA Regions can host a Car Control Skills event; however,** one Region must be designated 
+**3.6. Joint Events: Multiple PCA Regions can host a Car Control Skills event; however,** one Region must be designated 
 the host and is to take the lead role. It is the hosting Region’s responsibility to oversee the event, obtain 
 PCA liability insurance, and submit the Observer, Post Event, and Incident Reports (if necessary).
 
 Joint events with non-PCA organizations are prohibited.
 
-## Roles/Responsibilities 
+##4. Roles/Responsibilities 
 
-**Event Chair** – Manages the event from beginning to end. Submits the Post-Event Report within five (5) 
+**4.2. Event Chair** – Manages the event from beginning to end. Submits the Post-Event Report within five (5) 
 days to PCA.
 
-**Safety Chair** – Reviews and approves the course design, including grid/staging areas, with an objective 
+**4.3. Safety Chair** – Reviews and approves the course design, including grid/staging areas, with an objective 
 eye towards safety issues. Cannot be the Event Chair, exercise course, or curriculum designer.
 
 As the event proceeds, the Safety Chair watches for unsafe situations and takes corrective action as 
 needed. Any issues shall be discussed by the Event Chair, exercise course designer(s) and Safety Chair. **The 
 Safety Chair is the final arbiter for decisions related to safety.**
 
-**Event Observer** – Impartial member (not involved in the management of the event) who attends the 
+**4.4. Event Observer** – Impartial member (not involved in the management of the event) who attends the 
 event and submits the PCA Observer’s Report for Car Control Skills within ten (10) days after the event. 
 
-**Driving Instructors** – Designated by the Event Chair, prior to the beginning of exercise course runs. Qualifications 
+**4.5. Driving Instructors** – Designated by the Event Chair, prior to the beginning of exercise course runs. Qualifications 
 are at the Region’s discretion.
 
-**Candidate Driving Instructors** – Designated by the Event Chair, prior to the beginning of exercise 
+**4.6. Candidate Driving Instructors** – Designated by the Event Chair, prior to the beginning of exercise 
 course runs, along with mentoring Instructors.
 Qualifications are at the Region’s discretion.
 
-**Entrants:** A person who will be participating in aspects of the event. See Entrants section below for detail.
+**4.7. Entrants:** A person who will be participating in aspects of the event. See Entrants section below for detail.
 
-## Administration
+##5. Administration
 
-**Insurance:** The liability insurance certificate issued by PCA showing the insurance coverage, date of the 
+**5.2. Insurance:** The liability insurance certificate issued by PCA showing the insurance coverage, date of the 
 event and venue shall be kept on site during the event. Any entities required to be named on the insurance 
 certificate by the site owner must be included. 
 
-**Waiver:** Everyone at the event location must sign the appropriate PCA insurance waiver as designated in 
+**5.3. Waiver:** Everyone at the event location must sign the appropriate PCA insurance waiver as designated in 
 the then current Region Procedures Manual (RPM) and follow other procedures as designated in the Insurance 
 Section of the RPM.
 
@@ -84,23 +84,23 @@ PCA PNWR is so happy to train the minors we share the road with, we offer them a
 Option: Retain JPP by remove the close family a member requirement. Does your uncle being a PCA member really reduce risk? Enough to exclude the minor that has a guardian present?
 Option: allow learner's permits? Minors exclusion again.
 
-**Junior Participant Program (JPP)**  
+**5.4. Junior Participant Program (JPP)**  
 The JPP excludes minors except for fully licensed sons, daughters, nephews, nieces, step-children or grandchildren of 
 PCA members from participating in PCA events such as Car Control Skills. The parent or legal guardian of the JPP entrant does not have 
 to be a PCA member if the uncle, aunt, grandparent or step-parent is a PCA member, and this member is 
 in attendance at the event, along with the JPP entrant.  All requirements for JPP as set forth in the then 
 current version of the RPM (Region Procedures Manual) must be followed. 
 
-**Facility Contractual Requirements:** The event organizers must adhere to any facility-specific safety 
+**5.5. Facility Contractual Requirements:** The event organizers must adhere to any facility-specific safety 
 requirements that are more stringent than the PCA Minimum Standards; e.g., on-site medical, sound 
 limits, etc. 
 
-**Drivers/Safety Meeting:** All events must have a drivers meeting to review event procedures, safety, site 
+**5.6. Drivers/Safety Meeting:** All events must have a drivers meeting to review event procedures, safety, site 
 risks, restricted areas and policies before the start of event. *All participants must 
 attend.* Site boundary safety shall be discussed and site boundary protocol shall be established to 
 ensure site boundaries are clearly defined and maintained. 
 
-**Incident Report:** For any incident or other contact resulting in physical damage to an automobile and/or 
+**5.7. Incident Report:** For any incident or other contact resulting in physical damage to an automobile and/or 
 the facility, an incident report is required to be submitted to the individuals indicated on the current 
 Incident Report Form within five (5) business days. The electronic Incident Report Form is available on 
 the PCA web site and is part of the insurance packet received from the National Office when you 
@@ -112,27 +112,27 @@ day.
 
 Verbal altercations or personal injury of any person on site requires an Incident report. 
 
-**PCA Observer’s Report:** The PCA Observer’s Report must be completed within 10 days by an impartial 
+**5.8. PCA Observer’s Report:** The PCA Observer’s Report must be completed within 10 days by an impartial 
 party (i.e., not the Event Chair or other event management) who attended the event. Go to pca.org for the 
 form. 
 
-**Post Event Report:** The Post Event Report must be submitted within 5 days (located on pca.org). 
+**5.9. Post Event Report:** The Post Event Report must be submitted within 5 days (located on pca.org). 
 
 For further information on insurance, the Junior Participation Program, Reports, etc., please refer to the 
 Region Procedure Manual (RPM). 
 
-## Site
+##6. Site
 
-**Facility:** An Car Control Skills event must be held on a paved surface (i.e., asphalt, concrete, etc.). Use of a non
+**6.2. Facility:** An Car Control Skills event must be held on a paved surface (i.e., asphalt, concrete, etc.). Use of a non
 paved surface, except for parking, paddock, etc. requires approval from the National Safety Chair. 
 
-**Entrance Control:** Special care shall be taken to monitor site boundaries to ensure non-participants do 
+**6.3. Entrance Control:** Special care shall be taken to monitor site boundaries to ensure non-participants do 
 not wander through or enter the site at non-designated entry points. 
 
-**Off Limits Areas:** The site owner, Event Chair or Safety Chair may designate areas of the event site as 
+**6.4. Off Limits Areas:** The site owner, Event Chair or Safety Chair may designate areas of the event site as 
 off limits and care must be taken to follow these requirements. 
 
-**Restricted Areas:** The exercise courses and the areas near the them are considered restricted 
+**6.5. Restricted Areas:** The exercise courses and the areas near the them are considered restricted 
 areas and access to these areas is restricted to adults only (18 years of age or older). The only exception is 
 for 16 & 17-year-old Junior Participation Program (JPP) entrants when they are driving the Exercises. 
 Additionally, areas near the exercise that off-course or out of control cars might enter are also restricted 
@@ -143,63 +143,63 @@ photographers as approved by the Event Chair. Photographers in restricted areas 
 a spotter whose only responsibility is to spot for the photographer. General event viewing is not allowed 
 in restricted areas. JPP entrants cannot have a work assignment in a restricted area.
 
-**Unrestricted Areas:** Other areas such as viewing areas and paddock are considered unrestricted areas 
+**6.6. Unrestricted Areas:** Other areas such as viewing areas and paddock are considered unrestricted areas 
 and are accessible to all participants after signing the waiver. 
 
-**Refueling:** No smoking within 20 feet of refueling activities. Vehicles shall have their engines turned off 
+**6.7. Refueling:** No smoking within 20 feet of refueling activities. Vehicles shall have their engines turned off 
 while refueling. A fully-charged fire extinguisher nearby is required. 
 
-**Fire Safety:** A fully-charged fire extinguisher on each exercise course start point is required.
+**6.8. Fire Safety:** A fully-charged fire extinguisher on each exercise course start point is required.
 
-**Drones:** The use of drones is not permitted within the event boundary as per PCA National Policy. 
+**6.9. Drones:** The use of drones is not permitted within the event boundary as per PCA National Policy. 
 
-## Entrants
+##7. Entrants
 
-**Entrants:** A registered entrant is defined as a person who will be participating in substantially all 
+**7.2. Entrants:** A registered entrant is defined as a person who will be participating in substantially all 
 appropriate aspects of the event (driver’s meeting, corner working, etc.). This does not mean, however, a 
 registered entrant must attend the event full time, or participate in exercises that are not 
 scheduled for such entrant. Registering people for the sole purpose of fun rides is not permitted. 
 
-**Driver’s License:** All entrants must have a valid driver's license, verified either during on-line 
+**7.3. Driver’s License:** All entrants must have a valid driver's license, verified either during on-line 
 registration or when the driver checks in.
 
-**Entrant Age:** The minimum age for any driving entrant is 18 years, except for JPP entrants. 
+**7.4. Entrant Age:** The minimum age for any driving entrant is 18 years, except for JPP entrants. 
 
-**Helmets** Helmets are not required. A region may decide to require helmets for the event. This requirement is
+**7.5. Helmets** Helmets are not required. A region may decide to require helmets for the event. This requirement is
 decided before the event day and cannot be changed during the event. If an event 
 requires helmets, the standards regarding helmets defined in the Autocross Minimum standards apply. 
 
-**Clothing (Shoes, etc.):** 
+**7.6. Clothing (Shoes, etc.):** 
 Footwear must be non-slip and NOT be open-toe or have heavy-duty soles such as 
 those found on hiking shoes or work boots. 
 
-**Eye Protection:** If the car does not have a windshield, the occupants must wear eye protection 
+**7.7. Eye Protection:** If the car does not have a windshield, the occupants must wear eye protection 
 specifically meant to protect eyes from flying objects (shatterproof eye protection). 
 
-**Car Occupancy:** When a vehicle is on course while the course is hot, all the following apply.
+**7.8. Car Occupancy:** When a vehicle is on course while the course is hot, all the following apply.
 Only registered entrants are allowed in vehicles. No more than two people can be in the car at one time except for cases covered
 under Instructor Candidates. If two people are in a car, one must be a designated Can Control Skills instructor. The driver must have
 sole control of the car – no blindfolded driving or any physical control input by a passenger. Drivers and passengers must be
 belted in the car. If helmets are required for the event, they must have helmets on and chin straps fastened while on course. 
 
-**Instructor Candidates:** A registered entrant may be designated as an instructor candidate by event Chair.
+**7.9. Instructor Candidates:** A registered entrant may be designated as an instructor candidate by event Chair.
 Instructor candidates are being trained, evaluated and trialed toward the goal of being designated as an instructor by the 
 Event Chair for future events. An instructor candidate my be a third, non-driving, occupant in a vehicle (either observing 
 instruction or being observed giving instruction). They can also act as an instructor with approval from Event Chair as part 
 of their training.
 
-**No alcohol or controlled substances can be consumed by any person 
+**7.10. No alcohol or controlled substances can be consumed by any person 
 at the site of the event during the hours of event operation.** This is not 
 intended to prevent participants from taking medication prescribed by a physician as long as it does not 
 have an unreasonable effect on a person’s ability to control a vehicle at speed. 
 
-## Vehicle
+##8. Vehicle
 
-**Eligible Vehicles:** All Porsche vehicles and other manufacturer automobiles are eligible. Karts and 
+**8.2. Eligible Vehicles:** All Porsche vehicles and other manufacturer automobiles are eligible. Karts and 
 motorcycles are not allowed to participate; karts must not be operated within the boundary of the event as 
 per PCA National Policy. 
 
-**Vehicle Safety Inspection:** It is the sole responsibility of each entrant to present a vehicle that is safe 
+**8.3. Vehicle Safety Inspection:** It is the sole responsibility of each entrant to present a vehicle that is safe 
 to operate in Exercises at the event and is in sound mechanical condition. Safety inspection by PCA Region 
 volunteers does not relieve a entrant of their responsibility for the safety of the vehicle they entered.  
 All vehicles must be inspected by designated safety inspectors on the day of the event before being 
@@ -211,16 +211,16 @@ checked, the 12v battery is secure (if accessible), and the fuel cap is present 
 necessary by safety inspection. A vehicle that has passed vehicle safety inspection must be identified with 
 a label or some other marking, so it is easily identifiable as having passed the safety inspection. 
 
-**Re-inspection:** If a car leaves the course surface or hits an obstruction, it must be re-inspected per "Vehicle Safety Inspection". 
+**8.4. Re-inspection:** If a car leaves the course surface or hits an obstruction, it must be re-inspected per "Vehicle Safety Inspection". 
 
-**Testing:** Cars are not allowed to be running while any part of the car is off the ground (on a jack or jack 
+**8.5. Testing:** Cars are not allowed to be running while any part of the car is off the ground (on a jack or jack 
 stands). 
 
-**Roll Bars:** Roll bars are required in Modified cars (as defined in the PCA Parade Competition Rules) that 
+**8.6. Roll Bars:** Roll bars are required in Modified cars (as defined in the PCA Parade Competition Rules) that 
 do not have open-car factory rollover protection. For non-Porsche vehicles, acceptance of the car will be at the 
 discretion of the Event Chair and the Safety Chair.  
 
-**Seat Belts:** All vehicles must have either factory seat belts and/or multi-point harnesses and be in use by 
+**8.7. Seat Belts:** All vehicles must have either factory seat belts and/or multi-point harnesses and be in use by 
 all occupants. All belts must be in good condition and not overly worn, frayed, or stiff. 
 
 A head and neck restraint device is required for all cars using harness systems. Cars must not be allowed on course if the occupants do not have a head and neck restraint device while using harnesses.
@@ -229,56 +229,56 @@ The Entrant should be aware that the addition of a seat and harness system resul
 occupant being fastened upright in the vehicle and several changes to the 
 automobile may need to be made to create a safe occupant restraint system. Therefore, in order to have a COMPLETE SYSTEM, a properly padded roll bar or roll cage is recommended. All elements must be installed per the manufacturer’s instructions.
 
-**Hybrid / Electric Vehicles** Regions shall verify if the Event Facility permits Hybrid / Electric Vehicles on track.
+**8.8. Hybrid / Electric Vehicles** Regions shall verify if the Event Facility permits Hybrid / Electric Vehicles on track.
 Regions may decide if they shall allow all car marques, just Porsche-brand or no Hybrid / Electric Vehicles to participate
 in Event. 
 
-**High Pressure Gas Cylinders:** High pressure gas and air bottles (over 400 psi tanks) must have 
+**8.9. High Pressure Gas Cylinders:** High pressure gas and air bottles (over 400 psi tanks) must have 
 protection for the regulator. Oxygen bottles required for medical reasons by an entrant while they are 
 driving are allowed but must be properly attached to the vehicle. 
 
-## Course Design and Event Layout
+##9. Course Design and Event Layout
 
-**Safety:** Safety of everyone is the most important consideration in the design of the exercise courses. 
+**9.2. Safety:** Safety of everyone is the most important consideration in the design of the exercise courses. 
 During the design process a “what if” exercise is required to assess and address potential accident 
 scenarios. 
 
-**Course:** Soft, moveable items will be used to define the course. No fixed objects shall be used to define 
+**9.3. Course:** Soft, moveable items will be used to define the course. No fixed objects shall be used to define 
 the course. Special care shall be taken to ensure the course is designed with safety in mind such that if a 
 vehicle leaves the course, there is enough safe runoff area and participants or property are not at risk. 
 
-**Obstructions:** The course shall not normally pass closer than 25 feet from obstructions (solid objects, 
+**9.4. Obstructions:** The course shall not normally pass closer than 25 feet from obstructions (solid objects, 
 light poles, curbs, fences, ditches, etc.) and extreme care must be taken if the course is closer than this. On 
 sections of the course where speeds are higher, additional margin from fixed obstructions is required. 
 Particular attention shall be placed in the area past the end of exercise which shall be kept clear of parked cars 
 and people at all times. The use of a “stop-box” at the end of an exercise course does not remove this requirement. 
 
-**Start/Finish/Grid:** Extreme care shall be taken in the location of the start, finish, grid areas.
+**9.5. Start/Finish/Grid:** Extreme care shall be taken in the location of the start, finish, grid areas.
 The grid areas must be placed well clear of the course in a safe area. 
 The end of each exercise course area shall be clearly and carefully defined to safely restrict speeds. 
 
-**Surface:** The exercise courses shall be on a paved or concrete surface and will be well clear of dangerous 
+**9.6. Surface:** The exercise courses shall be on a paved or concrete surface and will be well clear of dangerous 
 holes, loose gravel, gratings, oily spots, or hazardous features other than incidental asphalt sloughing due 
 to weather and wear. 
 
-**Speeds:** The exercise courses must be designed such that maximum speeds shall be in the mid-60 mph /100 kph for 
+**9.7. Speeds:** The exercise courses must be designed such that maximum speeds shall be in the mid-60 mph /100 kph for 
 stock, later-model normal production cars with around 300 hp on street tires (993, 996, 997, 981, etc. not 
 GT3, Turbo, etc.). The fastest portions of the course shall be the most remote from participants and 
 obstructions.
 
-**Multiple Cars:** Extreme care and special design consideration shall be taken with exercise courses where multiple 
+**9.8. Multiple Cars:** Extreme care and special design consideration shall be taken with exercise courses where multiple 
 cars are on the course simultaneously to ensure cars cannot cross paths, even in the event both drivers 
 leave the intended driving path. 
 
-## Course Workers
+##10. Course Workers
 
-**Staffing:** The exercise courses must have a starter (stages cars, conducts final safety check - helmets, 
+**10.2. Staffing:** The exercise courses must have a starter (stages cars, conducts final safety check - helmets, 
 belts, closed doors and hoods, checks course is ready, launches car). Optionally there may be course reset stations staffed by 
 one or more workers to cover the course. 
 Station Location: Course reset stations must be placed at a safe distance from any vehicle’s path on course. 
 Special care shall be taken to ensure potential off course driving does not endanger course workers. 
 
-**Training:** A Worker’s Meeting (may be part of the Driver’s Meeting) must be conducted to ensure all 
+**10.3. Training:** A Worker’s Meeting (may be part of the Driver’s Meeting) must be conducted to ensure all 
 workers are safe and that they understand their roles and responsibilities.
 
 A discussion regarding the proper use of safety equipment (fire extinguishers, flags and radios), worker 
@@ -286,11 +286,11 @@ safety, course worker expectations, and all that workers are expected to do in t
 shall be covered. Course workers shall be given clear instructions to ensure their safety (e.g., safety first - 
 get off the course well before a car arrives, even if the course is not reset). 
 
-**Equipment:** Each exercise course must have an unfurled flag which can be used to stop cars on course when 
+**10.4. Equipment:** Each exercise course must have an unfurled flag which can be used to stop cars on course when 
 required, and effective communication (radio, voice, hand signals, flags, air horn). Each exercise
 course must have one up-to-date and fully-charged fire extinguisher. 
 
-**Worker Attention:** While cars are running an exercise course at speed, all course workers must be standing.
+**10.5. Worker Attention:** While cars are running an exercise course at speed, all course workers must be standing.
 The course starter, with the flag, keeps an eye on the safety situation 
 and lets other workers reset cones. All course workers must not be using any other devices (cameras, 
 video cameras, cell phones, etc.) that can distract their attention away from moving vehicles.
