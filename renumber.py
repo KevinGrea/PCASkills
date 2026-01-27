@@ -35,7 +35,7 @@ with open(filename, "r", encoding="utf-8") as f_in:
             
             counts[level] += 1
             for i in range(level+1, max_level):
-                counts[i] = 1
+                counts[i] = 0
             number_str = ".".join(str(counts[i]) for i in range(level+1)) + ". "
 
             prefix_count = 0
@@ -46,7 +46,7 @@ with open(filename, "r", encoding="utf-8") as f_in:
             while text_start < len(line) and line[text_start] in " 0123456789.":
                 text_start += 1
 
-            out_lines.append(line[:prefix_count] + number_str + line[text_start:])
+            out_lines.append(line[:prefix_count] + (" " if line[0] == "#" else "") + number_str + line[text_start:])
         else:
             prior_line_empty = line.strip() == ""
             out_lines.append(line)
