@@ -1,11 +1,5 @@
 # PCA Car Control Skills Minimum Standards
 
-TODO: finalize nomenclature. Is the PCA National term:
-- Driver Skills
-- Car Control Skills (I'm leaning toward this)
-- Car Control Clinic
-
-
 ## Purpose
 
 The PCA (Porsche Club of America) Car Control Skills Minimum Standards are a common set of safety-based rules
@@ -83,14 +77,15 @@ the then current Region Procedures Manual (RPM) and follow other procedures as d
 Section of the RPM.
 
 TODO: Excluding minors. Given the nature of these events is for improving street driving (as well as prepping for and honing skills for AX and DE), should we
-be excluding minor drivers? THe JPP is very narrow and my experience has been that many early drivers really benefit from exploring
-and growing skills. See the "Who Attends PCA PNWR Driver Skills" document for an example of having a few teens at each event works in practice.
+be excluding minor drivers? The JPP is very narrow and my experience has been that many early drivers really benefit from exploring
+and growing skills. See the ["Who Attends PCA PNWR Driver Skills"](https://pnwr-my.sharepoint.com/:b:/g/personal/driverskills_pnwr_org/IQDuNdPR6pzdQ42nUiKolfKZAWRMNcgZwMdGcnXRIhDl8c0?e=AgVc8s) document for an example of having a few teens at each event works in practice.
 PCA PNWR is so happy to train the minors we share the road with, we offer them a discounted rate for events.
-Option: Require a guardian on site, full waiver, but allow learners permits and minors at discretion of the Event Chair.
+Option: Retain JPP by remove the close family a member requirement. Does your uncle being a PCA member really reduce risk? Enough to exclude the minor that has a guardian present?
+Option: allow learner's permits? Minors exclusion again.
 
 **Junior Participant Program (JPP)**  
 The JPP excludes minors except for fully licensed sons, daughters, nephews, nieces, step-children or grandchildren of 
-PCA members from participating in PCA events such as Driver Skills. The parent or legal guardian of the JPP entrant does not have 
+PCA members from participating in PCA events such as Car Control Skills. The parent or legal guardian of the JPP entrant does not have 
 to be a PCA member if the uncle, aunt, grandparent or step-parent is a PCA member, and this member is 
 in attendance at the event, along with the JPP entrant.  All requirements for JPP as set forth in the then 
 current version of the RPM (Region Procedures Manual) must be followed. 
@@ -120,8 +115,7 @@ Verbal altercations or personal injury of any person on site requires an Inciden
 party (i.e., not the Event Chair or other event management) who attended the event. Go to pca.org for the 
 form. 
 
-**Post Event Report:** The Post Event Report must be submitted within 5 days (located on pca.org under 
-Event Management). 
+**Post Event Report:** The Post Event Report must be submitted within 5 days (located on pca.org). 
 
 For further information on insurance, the Junior Participation Program, Reports, etc., please refer to the 
 Region Procedure Manual (RPM). 
@@ -165,8 +159,6 @@ appropriate aspects of the event (driver’s meeting, corner working, etc.). Thi
 registered entrant must attend the event full time, or participate in exercises that are not 
 scheduled for such entrant. Registering people for the sole purpose of fun rides is not permitted. 
 
-TODO: allow learner's permits? Minors exclusion again.
-
 **Driver’s License:** All entrants must have a valid driver's license, verified either during on-line 
 registration or when the driver checks in.
 
@@ -185,7 +177,7 @@ specifically meant to protect eyes from flying objects (shatterproof eye protect
 
 **Car Occupancy:** When a vehicle is on course while the course is hot, all the following apply.
 Only registered entrants are allowed in vehicles. No more than two people can be in the car at one time except for cases covered
-under Instructor Candidates. If two people are in a car, one must be a designated Driver Skills instructor. The driver must have
+under Instructor Candidates. If two people are in a car, one must be a designated Can Control Skills instructor. The driver must have
 sole control of the car – no blindfolded driving or any physical control input by a passenger. Drivers and passengers must be
 belted in the car. If helmets are required for the event, they must have helmets on and chin straps fastened while on course. 
 

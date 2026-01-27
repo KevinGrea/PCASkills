@@ -3,8 +3,8 @@
 Car Control Skills events are about safe fun learning. You improve your driving skills 
 by driving your car on several exercises at street (not racetrack) speeds while being
 guided by instructors. The skills you learn are useful for safe and confident everyday
-street driving, preparing for your first track day (High Performance Driver Education HPDE), trying 
-out a car that is new to you, honing skills for autocross and/or HPDE, or, just having 
+street driving, Driving Tours, preparing for your first track day ([High Performance Driver Education HPDE](https://www.pca.org/drivers-education)), trying 
+out a car that is new to you, honing skills for [autocross](https://www.pca.org/autocross) and/or [HPDE](https://www.pca.org/drivers-education), or, just having 
 fun driving your car how it should be driven. These events aim to leave you a safer more 
 skilled driver whether you are a teen with still wet ink on your license, an extremely experienced 
 track racer, or anything in between.
