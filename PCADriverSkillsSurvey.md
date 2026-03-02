@@ -2,7 +2,7 @@
 
 ## Why?
 
-As organizers, we all want to make events a great experience for all, run smoothly, and be easier to run. So what should we change for the next time we run an event? We know volunteer time and energy is limited so we want to target the changes and tweaks that have the most impact.
+As organizers, we all want to make events a great experience for all, run smoothly, and be easier to run. So what should we change for the next time we run an event? We know volunteer time and energy is limited so we want to target changes and tweaks that have the most impact.
 
 A well crafted post event survey is a great way to get a real understanding of what the event was like for each person there, how smoothly it ran, and what people really valued about it.
 
@@ -14,9 +14,9 @@ So what makes a survey useful? Do you want to take action or make changes, but y
 
 Another challenge is to understand the conviction behind the feedback received. An open ended "did you encounter any problems?" will always elicit some answer, even if the attendee has to think hard to find something that could have been better, while others might have something they feel very strongly about and reply with firm presses on the keyboard. Can you tell which answers are which? Does every answer warrant changes or even attention?
 
-Below is a well tested survey that has proven to be very useful in the PCA Pacific NorthWest Region (PNWR) Driver Skills series of events.
+Below is a well tested survey that has proven to be very useful for the PCA Pacific NorthWest Region (PNWR) Driver Skills series of events.
 
-The trick for determining conviction was borrowed (or should I say stolen?) from a venture capitalist that would use this survey trick to determine if potential consumers have a problem that they would actually pay money to solve, and hence present a market opportunity, versus one where they would say it was indeed problem to be solved, but not one they would actually pay to solve.
+The trick for determining conviction was borrowed (or should I say stolen?) from a venture capitalist that would use this survey trick to determine if potential consumers have a problem that they would actually pay money to solve, and hence presents a market opportunity, versus one where they would say it was indeed a problem to be solved, but not one they would actually pay to solve.
 
 ## Suggested Post Event Survey
 
