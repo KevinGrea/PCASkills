@@ -2,17 +2,21 @@
 
 ## Why?
 
-Once an event is complete, as an organizer, you likely want to know how the event went for all that attended. We want to know if we did a good job, but also what should be altered for the next time. What would make things better for all that attended, and for those doing the work creating and running the event.
+As organizers, we all want to make events a great experience for all, run smoothly, and be easier to run. So what should we change for the next time we run an event? We know volunteer time and energy is limited so we want to target the changes and tweaks that have the most impact.
 
-It is naturally tempting to seek confirmation that everything was great and we did an amazing job. This is human nature and hard to overcome. We often will initially think of asking simple questions that are a paraphrasing of "It was great, wasn't it?". But is doing that useful?
+A well crafted post event survey is a great way to get a real understanding of what the event was like for each person there, how smoothly it ran, and what people really valued about it.
 
-## What Makes a Good Survey?
+It is also lets us get past our own confirmation bias. That bias is human nature and hard to overcome. Do we already *know* what people valued and what should change? We often will initially think of asking simple survey questions that are a paraphrasing of "It was great, wasn't it?". But is doing that useful? 
 
-So what makes a survey useful? Will you be able to take action or make changes, but only know what action or changes once you have seen the survey results? If the answer is yes, then that is a good indication the survey is useful. If you already have a change you wish to make to the event in mind, and are just looking to the survey to confirm the choice, what would the survey results need to look like to decide to not make the change? If you have an answer this is also a good sign that that the results will be useful.
+## What Makes a Useful Survey?
 
-Another challenge is to understand the conviction behind the feedback received. An open ended "did you encounter any problems?" will always elicit some answer, even if the attendee has to think hard to find anything at all that could have been better, while others might have something they feel very strongly about and reply with firm presses on the keyboard. Can you tell which any given answer is? Does every answer warrant changes or even attention?
+So what makes a survey useful? Do you want to take action or make changes, but you will only know what once you have seen the survey results? If the answer is yes, then that is a good indication the survey is useful. If you already have a change in mind, and are just looking to the survey to confirm that it is needed, what would the survey results need to look like to decide to not make the change? If you can answer that, it is also a good sign that that the survey will be useful.
 
-Below is a tested survey format that has proven to be very useful in the PCA Pacific NorthWest Region (PNWR) Driver Skills series of events. The trick for determining conviction was borrowed (or should I say stolen?) from a venture capitalist that would use this survey trick to determine if potential consumers really did have a problem that they would actually pay money to solve, and hence present a market opportunity, versus one where they would say it was indeed problem to be solved, but would not one they would actually pay to solve.
+Another challenge is to understand the conviction behind the feedback received. An open ended "did you encounter any problems?" will always elicit some answer, even if the attendee has to think hard to find something that could have been better, while others might have something they feel very strongly about and reply with firm presses on the keyboard. Can you tell which any given answer is? Does every answer warrant changes or even attention?
+
+Below is a tested survey format that has proven to be very useful in the PCA Pacific NorthWest Region (PNWR) Driver Skills series of events.
+
+The trick for determining conviction was borrowed (or should I say stolen?) from a venture capitalist that would use this survey trick to determine if potential consumers really did have a problem that they would actually pay money to solve, and hence present a market opportunity, versus one where they would say it was indeed problem to be solved, but would not one they would actually pay to solve.
 
 ## Suggested Survey Format
 
@@ -54,7 +58,9 @@ Below is a tested survey format that has proven to be very useful in the PCA Pac
 > 8. What is your name (or skip to remain anonymous)?<br>
 > *Single line Text Answer.*
 
-When first applied to the PNWR Driver Skills event series, we found these questions uncovered a number of things that needed to be improved that we were unaware of, even though we were at all the events. Often the same thing would be reported by multiple people. You can't see everything and experience everything others are experiencing. These open questions let us learn more then we expected. After some time and a number of changes (subtle in some cases) we found those repeated issues and high 1-10 scores dropped away. We still run the survey each event so we can continue to discover, even though most now are almost entirely positive.
+When first applied to the PNWR Driver Skills event series, we found these questions uncovered a number of things that needed to be improved that we were unaware of, even though we were at all the events. Often the same thing would be reported by multiple people. You can't see everything and experience everything others are experiencing. These open questions let us learn more then we expected.
+
+ After some time and a number of changes (subtle in some cases) we found those repeated issues and high 1-10 scores dropped away. We still run the survey each event so we can continue to discover, even though most now are almost entirely positive.
 
 Sharing the positive results with the instructors is also highly motivating.
 
@@ -62,7 +68,7 @@ Sharing the positive results with the instructors is also highly motivating.
 
 Send out the link to the survey as soon as you can after the event. I have found that responses can trickle in for a week, or even more, but the majority will arrive in the first couple of days after the event. You may see popular times for responding, such as early Mondays, or Sunday evenings, when people catch up on their communications.
 
-The length of the survey will have an effect on response rates. Keep it to the actionable as each question added means fewer responses.
+The length of the survey will have an effect on response rates. Keep it to the actionable, as each question added means fewer responses.
 
 A single link to fill in the survey is most useful, as that can be incorporated into whatever means you use to contact your attendees, be it email, txt or other messaging system. Here is how PNWR sends out our survey after the event:
 
